@@ -2668,13 +2668,13 @@
     },
     {
         "modelId": "RBSH-TRV0-ZB-EU",
-        "fileVersion": 889525524,
-        "fileSize": 166009,
+        "fileVersion": 889787668,
+        "fileSize": 166554,
         "manufacturerCode": 4617,
         "imageType": 12298,
-        "sha512": "254e39aab13838a3ac46210987cece2baa4eb9a19406e7de54c30dcbb9389da2e5c4e65af7696c9d5fab3c7b76fe81a29a32d00a17db0df8b9c7f8b93dc658cc",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Bosch/0x1209_0x300a_0x35051514.ota",
-        "path": "images/Bosch/0x1209_0x300a_0x35051514.ota"
+        "sha512": "bd44eda56bd48503e922001b101522a7340d7e4b68528d3a3d1f6073492631f96e51178573fa2b00da601483b5c5c864b906f14408b0f28d008364c4b195bf52",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Bosch/0x1209_0x300a_0x35091514.ota",
+        "path": "images/Bosch/0x1209_0x300a_0x35091514.ota"
     },
     {
         "fileVersion": 262145,
@@ -2705,16 +2705,6 @@
         "path": "images/Xiaomi/20220607175331_OTA_lumi.switch.acn029_0.0.0_211551_20220217_08B622.ota"
     },
     {
-        "fileVersion": 3752451,
-        "fileSize": 251559,
-        "manufacturerCode": 4129,
-        "imageType": 14,
-        "sha512": "4cc677a11ce1eccf4a713855585e6a6c7c017ec4554b9709c9cd91094aadc3ec2e383de3bada2ba0b75065bc5ffbef7bf5ba6515fb3d2dd3ed06f58407bd37a5",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Legrand/1021-000e-00394203-NLF.zigbee",
-        "path": "images/Legrand/1021-000e-00394203-NLF.zigbee"
-    },
-    {
-        "minFileVersion": 3752451,
         "fileVersion": 4801027,
         "fileSize": 254839,
         "manufacturerCode": 4129,
@@ -2724,16 +2714,6 @@
         "path": "images/Legrand/1021-000e-00494203-NLF.zigbee"
     },
     {
-        "fileVersion": 2245123,
-        "fileSize": 251495,
-        "manufacturerCode": 4129,
-        "imageType": 15,
-        "sha512": "853abd58cd50dcfe84ffc123c2f2066e834de31c87b7493d343368f1a945585910164ce789e5dbbf3280c5c398f65898879a67000dfc259f64be58467111676f",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Legrand/1021-000f-00224203-NLL.zigbee",
-        "path": "images/Legrand/1021-000f-00224203-NLL.zigbee"
-    },
-    {
-        "minFileVersion": 2245123,
         "fileVersion": 3949059,
         "fileSize": 256471,
         "manufacturerCode": 4129,
@@ -2992,6 +2972,15 @@
         "path": "images/Telink/1141-0203-10063001-z03mmc.zigbee"
     },
     {
+        "fileVersion": 18100225,
+        "fileSize": 127922,
+        "manufacturerCode": 4417,
+        "imageType": 520,
+        "sha512": "3976e5a67ec50a54d05dc2b5ed69f94fe1bd989663e8855511cacf00c4472cf904a2f51d63909374258fc7a2943e6b412a3c47cd5cb7282690c7a5c4d7c24828",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Telink/1141-0208-01143001-ZMHOC401N.zigbee",
+        "path": "images/Telink/1141-0208-01143001-ZMHOC401N.zigbee"
+    },
+    {
         "fileVersion": 65793,
         "fileSize": 27162,
         "manufacturerCode": 4747,
@@ -3092,12 +3081,22 @@
         "path": "images/Xiaomi/20221125122008_lumi.light.acn128_0.0.0_0021_20221123_B411AC.ota"
     },
     {
-        "fileVersion": 3097091,
-        "fileSize": 240567,
-        "manufacturerCode": 4129,
-        "imageType": 19,
-        "sha512": "6093fb567660e913bece95b49c77d43e4cfded9bef29535bb48df6296cdd8c3f4b8ba3fe1fcd168e505033c7f70a43fd1e333f07b289455636344683b5a4f15d",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Legrand/1021-0013-002f4203-NLV.zigbee",
-        "path": "images/Legrand/1021-0013-002f4203-NLV.zigbee"
+        "fileVersion": 41,
+        "fileSize": 285742,
+        "manufacturerCode": 4447,
+        "imageType": 4616,
+        "sha512": "5c154c263bddba0ab0f5ffc0fb80d68f1c56c833b9018ad2a1942f30cec1efee977d6e2f431f8e06d617b241b1311ce4dc8d04f68757e889314e18075e485e5e",
+        "modelId": "lumi.curtain.vagl02",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Xiaomi/20230704151031_OTA_lumi.curtain.vagl02_V41_20230703_563B.ota",
+        "path": "images/Xiaomi/20230704151031_OTA_lumi.curtain.vagl02_V41_20230703_563B.ota"
+    },
+    {
+        "fileVersion": 4353,
+        "fileSize": 326702,
+        "manufacturerCode": 4742,
+        "imageType": 8199,
+        "sha512": "b132f02055dffcbf55ccf94f164f1cc1fedb350be4755b56a8da1c3c51ae6814bba3e8650376ce76a0783394eae1315e912deba917efd4f36557c92068b437ef",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Sonoff/trvzb_v1.1.1.ota",
+        "path": "images/Sonoff/trvzb_v1.1.1.ota"
     }
 ]
